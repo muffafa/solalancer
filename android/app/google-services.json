@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305118833285",
+    "project_id": "solalancer-be8ec",
+    "storage_bucket": "solalancer-be8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305118833285:android:4c4beaa87f983884e9d7ec",
+        "android_client_info": {
+          "package_name": "com.solalancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305118833285-g2rgt6crskgpg0i5qiqd658jb39dgkid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4HGOBl-ZawM2NwvbGC60F0c_YQgymPYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305118833285-g2rgt6crskgpg0i5qiqd658jb39dgkid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
